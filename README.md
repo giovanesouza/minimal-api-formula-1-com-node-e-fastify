@@ -1,6 +1,6 @@
 # Minimal API da Fórmula 1 com Node e Fastify
 
-Bem-vindo à Minimal API da Fórmula 1, um projeto desenvolvido com Node.js e Fastify para fornecer dados básicos sobre equipes e pilotos de Fórmula 1. Esta aplicação serve como um exemplo de uma Minimal API, que se caracteriza por uma implementação simples e enxuta, focada em fornecer apenas o essencial para o consumo de dados, sem a complexidade de frameworks mais robustos.
+Bem-vindo à Minimal API da Fórmula 1, um projeto desenvolvido com Node.js e Fastify para fornecer dados básicos sobre equipes, pilotos e circuitos de Fórmula 1. Esta aplicação serve como um exemplo de uma Minimal API, que se caracteriza por uma implementação simples e enxuta, focada em fornecer apenas o essencial para o consumo de dados, sem a complexidade de frameworks mais robustos.
 
 
 ## 📝 Visão Geral
