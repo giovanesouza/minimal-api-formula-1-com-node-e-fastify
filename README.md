@@ -17,20 +17,20 @@ Este projeto demonstra como configurar uma API mínima com rotas simples para re
 
 ### Passos para Instalação
 
-1. Clone o repositório:
+1. **Clone o repositório**:
 
 ```bash
 git clone https://github.com/seu-usuario/minimal-api-formula-1-com-node-e-fastify.git
 cd minimal-api-formula-1-com-node-e-fastify
 ```
 
-2. Instale as dependências:
+2. **Instale as dependências**:
 
 ```bash
 npm i
 ```
 
-3. Inicie a aplicação:
+3. **Inicie a aplicação**:
 
 - Em modo de desenvolvimento:
 
@@ -63,9 +63,9 @@ A API oferece as seguintes rotas:
 
 
 ## 📜 Scripts
-`dist`: Compila o código TypeScript para JavaScript.
-`start:dev`: Inicia o servidor em modo de desenvolvimento, carregando variáveis de ambiente do arquivo .env.
-`start:watch`: Inicia o servidor em modo de desenvolvimento com monitoramento de arquivos.
-`start:dist`: Compila o código e inicia o servidor com a versão compilada.
+- `dist`: Compila o código TypeScript para JavaScript.
+- `start:dev`: Inicia o servidor em modo de desenvolvimento, carregando variáveis de ambiente do arquivo .env.
+- `start:watch`: Inicia o servidor em modo de desenvolvimento com monitoramento de arquivos.
+- `start:dist`: Compila o código e inicia o servidor com a versão compilada.
 
 A API estará disponível em http://localhost:3333. Insira os endpoints conforme desejar utilizar.
